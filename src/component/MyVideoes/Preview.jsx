@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Ad = () => {
+const Preview = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Ad = () => {
   )
 }
 
-export default Ad
+export default Preview
